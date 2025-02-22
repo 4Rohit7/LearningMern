@@ -1,6 +1,5 @@
 import fs from 'fs';
-import path from 'path';
-import { buffer } from 'stream/consumers';
+import path from 'path';
 import superagent from 'superagent';
 
 //Promise Wrapper for fs.readFile
